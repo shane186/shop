@@ -1,5 +1,5 @@
 # 跨境电商ERP：
-跨境电商ERP，跨境电商erp系统：亚马逊erp，对接亚马逊、wish、ebay、速卖通、shopify、shopee虾皮、lazada等跨境电商平台。跨境电商ERP源码，跨境电商erp系统源码：亚马逊erp源码、wish erp源码、ebay erp源码、速卖通erp源码、shopify erp源码、shopee虾皮erp源码、lazada来赞达erp源码。对接亚马逊、wish、ebay、速卖通、shopify、shopee虾皮、lazada等跨境电商平台源码，跨境电商erp源码。<br/>
+Java跨境电商ERP系统：对接amazon亚马逊、shopify独立站、shopee虾皮、lazada来赞等跨境电商平台。亚马逊运营培训，亚马逊招商孵化，亚马逊saas，亚马逊私有化，独立部署，类似店小秘、asinking领星、斑马erp、船长的产品。<br/>
 
 ## 演示地址（合作）
 联系邮件：194105026@qq.com<br/>
