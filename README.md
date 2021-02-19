@@ -1,5 +1,5 @@
 # 跨境电商ERP：
-Java跨境电商ERP系统：对接amazon亚马逊、shopify独立站、shopee虾皮、lazada来赞等跨境电商平台。亚马逊运营培训，亚马逊招商孵化，亚马逊saas，亚马逊私有化，独立部署，类似店小秘、asinking领星、斑马erp、船长的产品。<br/>
+Java跨境电商ERP系统：对接amazon亚马逊、shopify独立站、shopee虾皮、lazada来赞等跨境电商平台。运营培训，招商孵化，saas，私有化，独立部署。<br/>
 
 ## 演示地址（合作）
 联系邮件：194105026@qq.com<br/>
