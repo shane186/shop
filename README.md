@@ -31,37 +31,21 @@ Java跨境电商ERP系统：对接amazon亚马逊、shopify独立站、shopee虾
 统一使用STS版本作为开发工具，JDK使用1.8，Maven使用3.2;
 ## 演示效果图
 
-![](https://myplatform.oss-cn-beijing.aliyuncs.com/website/git/1.png)
+![](shop/amazon-edit.png)
 
 ![](shop/amazon-publish.png)
 
-![](https://myplatform.oss-cn-beijing.aliyuncs.com/website/git/2.png)
+![](shop/shopee-edit.png)
 
 ![](shop/order-list.png)
 
-![](https://myplatform.oss-cn-beijing.aliyuncs.com/website/git/3.png)
+![](shop/order.png)
 
-![](shop/order-list.png)
+## 商务合作
+联系邮件：194105026@qq.com<br/>
+QQ：194105026（申请备注"github跨境电商ERP"）<br/>
+微信：194105026（申请备注"github跨境电商ERP"）<br/>
+或者扫描下面二维码，加我微信：
 
-![](https://myplatform.oss-cn-beijing.aliyuncs.com/website/git/4.png)
-
-![](shop/order-list.png)
-
-![](https://myplatform.oss-cn-beijing.aliyuncs.com/website/git/5.png)
-
-![](shop/order-list.png)
-
-![](https://myplatform.oss-cn-beijing.aliyuncs.com/website/git/6.png)
-
-![](shop/order-list.png)
-
-![](https://myplatform.oss-cn-beijing.aliyuncs.com/website/git/7.png)
-
-![](https://myplatform.oss-cn-beijing.aliyuncs.com/website/git/8.png)
-
-![](https://myplatform.oss-cn-beijing.aliyuncs.com/website/git/9.png)
-
-![](https://myplatform.oss-cn-beijing.aliyuncs.com/website/git/10.png)
-
-
+<img src="shop/weixin.png" />
 
