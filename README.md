@@ -11,7 +11,7 @@ QQ：194105026（申请备注"github跨境电商ERP"）<br/>
 微信：fbaerp（申请备注"github跨境电商ERP"）<br/>
 或者扫描下面二维码，加我微信：
 
-<img src="shop/wx.png" />
+<img src="shop/wx.png" style="height:100px;width:100px" />
 
 ## 演示效果图
 
