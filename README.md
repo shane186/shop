@@ -24,3 +24,7 @@ QQ：194105026（申请备注"github跨境电商ERP"）<br/>
 ![](shop/order-list.png)
 
 ![](shop/order.png)
+
+加我微信：
+
+<img src="shop/wx.png" style="height:168px;width:168px" />
