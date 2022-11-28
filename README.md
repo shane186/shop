@@ -9,7 +9,7 @@ Java跨境电商ERP系统：对接amazon亚马逊、shopify独立站、shopee虾
 联系邮件：194105026@qq.com<br/>
 QQ：194105026（申请备注"github跨境电商ERP"）<br/>
 微信：fbaerp（申请备注"github跨境电商ERP"）<br/>
-或者扫描下面二维码，加我微信：
+或者扫描下面二维码，微信：
 
 <img src="shop/wx.png" style="height:168px;width:168px" />
 
@@ -25,6 +25,6 @@ QQ：194105026（申请备注"github跨境电商ERP"）<br/>
 
 ![](shop/order.png)
 
-加我微信：
+微信：
 
 <img src="shop/wx.png" style="height:168px;width:168px" />
